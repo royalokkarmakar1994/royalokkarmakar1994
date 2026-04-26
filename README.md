@@ -24,4 +24,4 @@
 
 ---
 
-📫 **Let's connect:** (https://github.com/royalokkarmakar1994/portfolio)
+📫 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/alokroykarmakar1994) · [Portfolio](https://github.com/royalokkarmakar1994/portfolio)
