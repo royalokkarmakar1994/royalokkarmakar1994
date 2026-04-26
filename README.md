@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Alok Roy Karmakar 👋
 
-<!--
-**royalokkarmakar1994/royalokkarmakar1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤖 Agentic AI Developer | Data Scientist  
+🔧 Building autonomous AI systems with LangChain · CrewAI · OpenAI  
+📍 Kolkata, India
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [Agentic Finance Hub](https://github.com/royalokkarmakar1994/agentic-finance-hub) | Multi-agent financial sentiment analysis | CrewAI, GPT-4o, yfinance |
+| [Procurement RFP Analyzer](https://github.com/royalokkarmakar1994/procurement-rfp-analyzer) | AI-powered SLA risk extraction from PDFs | LangChain, OpenAI, Streamlit |
+| [Procurement AI Agent](https://github.com/royalokkarmakar1994/procurement-ai-agent) | Vendor scoring & recommendation tool | LangChain, Pandas, Streamlit |
+
+---
+
+## 🛠 Tech Stack
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white&style=flat-square)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=flat-square)
+
+---
+
+📫 **Let's connect:** (https://www.linkedin.com/in/alokroykarmakar1994) · [Portfolio](https://github.com/royalokkarmakar1994/portfolio)
