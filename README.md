@@ -1,10 +1,10 @@
 <div align="center">
 
-# Alok Roy Karmakar
+![ARK // Field Files — Alok Roy Karmakar, Applied AI](https://capsule-render.vercel.app/api?type=shark&color=0:101633,65:302973,100:8251dc&height=190&section=header&text=ARK%20%2F%2F%20FIELD%20FILES&fontSize=48&fontColor=ffe168&fontAlignY=45&desc=ALOK%20ROY%20KARMAKAR%20%20%2F%20%20APPLIED%20AI&descSize=17&descAlignY=65&descColor=ffffff)
 
 **Applied AI Developer | LLM Applications | Coding-Agent Evaluation Focus**
 
-Building practical AI and data applications, with a growing focus on how to evaluate coding agents reliably.
+I build tools for procurement and predictive maintenance. My next mission is measuring how well coding agents solve real tasks.
 
 [Portfolio](https://royalokkarmakar1994.github.io/portfolio/) | [LinkedIn](https://www.linkedin.com/in/alokroykarmakar1994) | [GitHub Projects](https://github.com/royalokkarmakar1994?tab=repositories)
 
@@ -20,13 +20,13 @@ Building practical AI and data applications, with a growing focus on how to eval
 
 ---
 
-## About
+## Behind the mask
 
 I'm an AI/ML developer. I build Python applications that combine machine learning, language models, and domain workflows.
 
 My current learning focus is coding-agent evaluation: benchmark and task design, test-based scoring, reproducible runs, and systematic failure analysis. I'm open to remote AI/ML opportunities and collaboration.
 
-## Selected Work
+## ⚡ Mission files
 
 ### [ManufactureAI - Steel Plant Predictive Maintenance](https://github.com/royalokkarmakar1994/manufacture-ai)
 
@@ -52,13 +52,17 @@ A Jupyter notebook comparing Logistic Regression and Random Forest on the IBM Te
 
 `Python` | `Pandas` | `scikit-learn` | `Jupyter`
 
-## Evaluation Engineering Focus
+## Next mission · Coding-agent evaluation
 
 I'm building toward coding-agent evaluation work, with particular interest in:
 
 - Designing clear benchmark tasks and scoring rubrics
 - Measuring solutions with tests and repeatable protocols
 - Categorizing failure modes and turning results into useful reports
+
+## Utility belt · Public repository languages
+
+![Languages in my public repositories](https://github-readme-stats.shion.dev/api/top-langs/?username=royalokkarmakar1994&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## Connect
 
